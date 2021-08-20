@@ -169,3 +169,5 @@ Was able to write a constraint for the previous score that the next selection mu
 This works but the search takes a long time and doesn't really improve on what it easily achievable by just looking.
 
 Tried narrowing the pool of players and the order in which different positions were filled. Doesn't really make much difference.
+
+Apparently introducing heuristics as per A* is a way to improve this algorithm.
